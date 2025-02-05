@@ -16,6 +16,4 @@ public class Main {
         int sum = sumArray(arr);
                 System.out.println("Sum of the array elements: " + sum);
             }
-        
-
 }
